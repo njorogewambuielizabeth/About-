@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: #15ff00;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+}
+img{
+    width: 40%;
+    height: 300px;
+}
+.com{
+    display: flex;
+    gap: 20px;
+}
